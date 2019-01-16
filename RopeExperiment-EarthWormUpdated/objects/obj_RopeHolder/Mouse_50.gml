@@ -3,12 +3,11 @@
 if(obj_RopeTail.CollisionFlag)  //ensuring if the other end is securely latched...
 {
 	CollisionFlag = false;
-	if(distance_to_object(obj_RopeTail) <= 90)
+	if(!StretchFlag)
 	{
 	phy_speed_x = mouse_x - x;
 	phy_speed_y = mouse_y - y;
-	xInstant = phy_position_x;
-	yInstant = phy_position_y;
+	
 	}
 	else
 	{
