@@ -1,0 +1,262 @@
+{
+    "id": "c899c122-3ca7-425f-9cea-9e7d81bc3957",
+    "modelName": "GMProject",
+    "mvc": "1.0",
+    "IsDnDProject": false,
+    "configs": [
+        
+    ],
+    "option_ecma": false,
+    "parentProject": {
+        "id": "c6781681-f37b-4754-9fd9-ed5917f23f04",
+        "modelName": "GMProjectParent",
+        "mvc": "1.0",
+        "alteredResources": [
+            {
+                "Key": "ed6a955d-5826-4f98-a450-10b414266c27",
+                "Value": {
+                    "configDeltas": [
+                        "inherited"
+                    ],
+                    "id": "0500127b-980d-4bde-be17-fd4ff1f849fb",
+                    "resourcePath": "options\\main\\options_main.yy",
+                    "resourceType": "GMMainOptions"
+                }
+            }
+        ],
+        "hiddenResources": [
+            
+        ],
+        "projectPath": "${base_project}"
+    },
+    "resources": [
+        {
+            "Key": "056fd347-902a-4340-89e7-bef0f6b0e21c",
+            "Value": {
+                "id": "21535037-3cc0-4c90-9f92-aed085f4fb76",
+                "resourcePath": "views\\056fd347-902a-4340-89e7-bef0f6b0e21c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "073d2f43-17bc-42b2-a688-8db856a6611e",
+            "Value": {
+                "id": "79e26365-9ac2-4aff-ae15-a0ea35fd5159",
+                "resourcePath": "views\\073d2f43-17bc-42b2-a688-8db856a6611e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "09583d80-d7c5-460a-9e41-89f27c9fab2b",
+            "Value": {
+                "id": "36616104-5ca8-4bec-93d8-550151c334e8",
+                "resourcePath": "objects\\obj_RopeTail\\obj_RopeTail.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "100a7206-bd68-4a17-bbbb-33753d100df1",
+            "Value": {
+                "id": "db9e5109-5755-4f69-adf9-52262e536408",
+                "resourcePath": "sprites\\spr_Floor\\spr_Floor.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "12217541-3c9b-40b2-83d1-b7831debda58",
+            "Value": {
+                "id": "77b4c1bc-453e-4f5f-b1f6-b2b093cee4ec",
+                "resourcePath": "views\\12217541-3c9b-40b2-83d1-b7831debda58.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1807cf3f-ce29-4cf4-8969-200e31bf4791",
+            "Value": {
+                "id": "96af494d-a753-42d0-afaa-3f730f0d6731",
+                "resourcePath": "views\\1807cf3f-ce29-4cf4-8969-200e31bf4791.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2cf35877-a5df-4df7-a032-6f42a617e6a3",
+            "Value": {
+                "id": "b5b01e47-e153-437b-9b6a-399539d33404",
+                "resourcePath": "views\\2cf35877-a5df-4df7-a032-6f42a617e6a3.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4a210c1d-17da-4865-8ebd-0ac98e3da184",
+            "Value": {
+                "id": "80253c21-d6fc-40c3-91a8-e24e0e14f13b",
+                "resourcePath": "sprites\\spr_RopeHolder\\spr_RopeHolder.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "50fcc31f-b3bd-40ce-830d-7831c9f7a1cb",
+            "Value": {
+                "id": "34b90802-775b-41ea-84dd-b1c836e313bb",
+                "resourcePath": "views\\50fcc31f-b3bd-40ce-830d-7831c9f7a1cb.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5d7cfd6d-4b67-40c8-921d-36a23bc78727",
+            "Value": {
+                "id": "e5792101-8f0c-4545-888f-20216e7a629a",
+                "resourcePath": "rooms\\RopeTest\\RopeTest.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "5fd9d4bd-4d4c-45cf-95f8-c18a700651f5",
+            "Value": {
+                "id": "48d3e36e-c51a-4837-9fef-06f5dabdd243",
+                "resourcePath": "views\\5fd9d4bd-4d4c-45cf-95f8-c18a700651f5.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6ec69230-090d-44bc-a847-fafb76ea2509",
+            "Value": {
+                "id": "b6807e91-8fff-4b53-b6de-d62559bffcc2",
+                "resourcePath": "views\\6ec69230-090d-44bc-a847-fafb76ea2509.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "72110f4a-e990-4947-b4f5-2e13a4cbe969",
+            "Value": {
+                "id": "dc35603e-52d1-4085-b075-e84f1c22c8a6",
+                "resourcePath": "objects\\obj_RopeHolder\\obj_RopeHolder.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8590f345-f323-44c6-8626-e6d7cbaaf9d5",
+            "Value": {
+                "id": "c525cf69-be06-449d-8916-bbd7884e4d2e",
+                "resourcePath": "objects\\obj_Floor\\obj_Floor.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "88e1d9bd-356e-4664-b87a-920ff8d8a235",
+            "Value": {
+                "id": "1802ab89-6d16-412e-9112-6690f900c1e4",
+                "resourcePath": "views\\88e1d9bd-356e-4664-b87a-920ff8d8a235.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "89b3d119-cf5a-4f16-abfc-b818b0005b1a",
+            "Value": {
+                "id": "21130fcd-ed90-4088-957e-625e5034c2b8",
+                "resourcePath": "views\\89b3d119-cf5a-4f16-abfc-b818b0005b1a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9022ecfb-e634-456b-88b7-4a78af9e6ce4",
+            "Value": {
+                "id": "7e12dfc7-7c01-4ab6-ab60-ccfff1f7bb35",
+                "resourcePath": "views\\9022ecfb-e634-456b-88b7-4a78af9e6ce4.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "38bb8cba-1568-4a0e-9efc-37ceecf0f100",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "c0394103-0034-4b67-8d91-33ccb2e12061",
+            "Value": {
+                "id": "10db62f6-251e-4cd0-97ff-2063cea7ce77",
+                "resourcePath": "sprites\\spr_Rope\\spr_Rope.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c4af9a2d-2c52-4618-b841-4e608c37556e",
+            "Value": {
+                "id": "ba6fe272-d886-43ec-9f62-e706052085e9",
+                "resourcePath": "views\\c4af9a2d-2c52-4618-b841-4e608c37556e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
+            "Value": {
+                "id": "dfb8330d-44f2-4c66-8f22-dc76e46405a2",
+                "resourcePath": "options\\windows\\options_windows.yy",
+                "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cd98c907-5336-4976-91c0-187b12f6ec62",
+            "Value": {
+                "id": "5fe6bbcb-599c-4388-bab3-a05c13d1ed81",
+                "resourcePath": "views\\cd98c907-5336-4976-91c0-187b12f6ec62.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e0010024-36f6-4380-971b-5f0b8af3bd81",
+            "Value": {
+                "id": "ca8d3427-80bf-4bc7-98f4-ce6ef8ac6d65",
+                "resourcePath": "views\\e0010024-36f6-4380-971b-5f0b8af3bd81.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ef43bea3-3bc4-44dc-89fa-3d963119ddeb",
+            "Value": {
+                "id": "59594a69-ecd6-4cff-bea8-af8d6635cadb",
+                "resourcePath": "objects\\obj_Rope\\obj_Rope.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f1e8e9a2-7c4a-471e-9ca5-ef16ac43b789",
+            "Value": {
+                "id": "ce0271c8-2480-4028-b932-912195ba2a0e",
+                "resourcePath": "views\\f1e8e9a2-7c4a-471e-9ca5-ef16ac43b789.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
+            "Value": {
+                "id": "234eb70c-b5e6-4302-870e-be0873a2062f",
+                "resourcePath": "options\\mac\\options_mac.yy",
+                "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f8d35b64-3b93-4bd9-b1d6-83784e43f609",
+            "Value": {
+                "id": "326247f0-549b-41b3-adb2-d310405d7d5d",
+                "resourcePath": "views\\f8d35b64-3b93-4bd9-b1d6-83784e43f609.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fbc9204f-b46f-487c-818c-043e064979b8",
+            "Value": {
+                "id": "7f36b193-6792-44c6-a973-30b643282416",
+                "resourcePath": "sprites\\spr_RopeTail\\spr_RopeTail.yy",
+                "resourceType": "GMSprite"
+            }
+        }
+    ],
+    "script_order": [
+        
+    ],
+    "tutorial": ""
+}
