@@ -12,7 +12,7 @@ StretchFlag = false;
 
 offset_y = 0;
 host = self;
-next_rope = instance_create_layer(x,y+offset_y,layer,obj_Rope);
+next_rope = instance_create_layer(x,y+offset_y,"Body",obj_Rope);
 attach = physics_joint_distance_create(host,next_rope,host.x,host.y,next_rope.x,next_rope.y,false);
 
 physics_joint_set_value(attach,phy_joint_damping_ratio,0.5);
@@ -27,7 +27,7 @@ repeat(5)
 	offset_y+=1;
 	last_rope = next_rope;
 	
-	next_rope = instance_create_layer(x,y+offset_y,layer,obj_Rope);
+	next_rope = instance_create_layer(x,y+offset_y,"Body",obj_Rope);
 	
 	link = physics_joint_distance_create(last_rope,next_rope,last_rope.x,last_rope.y,next_rope.x,next_rope.y,false);
 	physics_joint_set_value(link,phy_joint_damping_ratio,0.5);
