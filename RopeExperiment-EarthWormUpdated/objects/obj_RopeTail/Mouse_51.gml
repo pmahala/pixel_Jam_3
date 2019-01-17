@@ -5,8 +5,8 @@ if(obj_RopeHolder.CollisionFlag)
 	CollisionFlag = false;
 	if(!StretchFlag)
 	{
-	phy_speed_x = mouse_x - x;
-	phy_speed_y = mouse_y - y;
+	phy_speed_x = (mouse_x - x)/150;
+	phy_speed_y = (mouse_y - y)/150;
 	
 	}
 	else
