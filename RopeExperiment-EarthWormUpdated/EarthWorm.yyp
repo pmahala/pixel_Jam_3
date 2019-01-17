@@ -106,7 +106,7 @@
             "Key": "5563fb6a-cb8c-437a-acd9-753bfacc9785",
             "Value": {
                 "id": "f731810f-7518-49d7-abf3-3960db5da2b8",
-                "resourcePath": "sprites\\spr_WoolyHead\\spr_WoolyHead.yy",
+                "resourcePath": "sprites\\spr_Wooly1Head\\spr_Wooly1Head.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -178,7 +178,7 @@
             "Key": "9ab86b48-c843-426e-9f5a-943e45c00553",
             "Value": {
                 "id": "d3d08a2b-3520-4489-b83d-b74c80a800a4",
-                "resourcePath": "sprites\\spr_WoolyBody\\spr_WoolyBody.yy",
+                "resourcePath": "sprites\\spr_Wooly1Body\\spr_Wooly1Body.yy",
                 "resourceType": "GMSprite"
             }
         },

@@ -4,3 +4,5 @@
 LMBFlag = false;
 CollisionFlag = false;
 StretchFlag = false;
+LaunchLatchFlag = false;
+

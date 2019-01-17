@@ -1,6 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 CollisionFlag = true;
+
 /*if(LMBFlag)
 {
 	phy_position_x = xInstant;

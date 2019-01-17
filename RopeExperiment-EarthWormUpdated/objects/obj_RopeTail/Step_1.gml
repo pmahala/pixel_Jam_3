@@ -20,3 +20,17 @@ if(CollisionFlag)
 		CollisionFlag = false;
 	}
 }
+
+if(LaunchLatchFlag && !obj_RopeHolder.RMBFlag)
+{
+	if(distance_to_object(obj_RopeHolder) > 0.5)
+	{
+		phy_position_x = LatchInstantX;
+		phy_position_y = LatchInstantY;
+		phy_speed_x = 0;
+		phy_speed_y = 0;
+	}
+	else
+		LaunchLatchFlag = false;
+	
+}
