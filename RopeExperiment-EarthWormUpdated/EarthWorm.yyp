@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "0a15dc52-cb8a-4d71-a50b-aace6a5628a8",
+            "Value": {
+                "id": "114adbd6-abd3-41c4-9edd-78ed1aca702f",
+                "resourcePath": "objects\\obj_GameManager\\obj_GameManager.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "100a7206-bd68-4a17-bbbb-33753d100df1",
             "Value": {
                 "id": "db9e5109-5755-4f69-adf9-52262e536408",
@@ -191,6 +199,14 @@
             }
         },
         {
+            "Key": "b0cce528-572f-4a9d-a7ef-9f375c78c9dc",
+            "Value": {
+                "id": "4d0696ea-a251-45d8-a9d0-fb7b47ab0aba",
+                "resourcePath": "objects\\obj_CollectionSeeds\\obj_CollectionSeeds.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c0394103-0034-4b67-8d91-33ccb2e12061",
             "Value": {
                 "id": "10db62f6-251e-4cd0-97ff-2063cea7ce77",
@@ -228,6 +244,14 @@
                 "id": "ca8d3427-80bf-4bc7-98f4-ce6ef8ac6d65",
                 "resourcePath": "views\\e0010024-36f6-4380-971b-5f0b8af3bd81.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e0482bea-8724-4ac7-b072-bfa4d2efbc87",
+            "Value": {
+                "id": "26a49706-44ea-4470-aae1-c2b5b46a7b6e",
+                "resourcePath": "sprites\\spr_CollectionSeeds\\spr_CollectionSeeds.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
