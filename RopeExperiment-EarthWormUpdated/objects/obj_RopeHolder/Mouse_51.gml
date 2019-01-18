@@ -6,8 +6,15 @@ if(CollisionFlag)
 {
 	if(!RMBFlag ) 
 	{
+		UnlatchSoundFlag = false;
+		if(!LatchSoundFlag)
+		{
+			LatchSoundFlag = true;
+			audio_play_sound(snd_Latch,1,false);
+		}
 		phy_speed_x = 0;
 		phy_speed_y = 0;
+		
 		xInstant = phy_position_x;
 		yInstant = phy_position_y;
 		RMBFlag = true;

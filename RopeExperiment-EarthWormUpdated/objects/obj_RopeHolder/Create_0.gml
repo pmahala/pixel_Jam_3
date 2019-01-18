@@ -3,6 +3,8 @@
 RMBFlag = false;
 CollisionFlag = false;
 StretchFlag = false;
+LatchSoundFlag = false;
+UnlatchSoundFlag = false;
 
 alarm[0] = 240;
 
