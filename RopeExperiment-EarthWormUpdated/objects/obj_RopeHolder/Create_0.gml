@@ -4,6 +4,7 @@ RMBFlag = false;
 CollisionFlag = false;
 StretchFlag = false;
 
+alarm[0] = 240;
 
 
 

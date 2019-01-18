@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "968fa99f-8c62-4c3c-915b-97e19d721485",
+            "Value": {
+                "id": "e8271371-74c7-46a4-ac26-6b54a290360f",
+                "resourcePath": "sprites\\spr_WoolyIdleAnimation\\spr_WoolyIdleAnimation.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9ab86b48-c843-426e-9f5a-943e45c00553",
             "Value": {
                 "id": "d3d08a2b-3520-4489-b83d-b74c80a800a4",
